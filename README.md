@@ -1,5 +1,5 @@
 > [!WARNING]
-> Permanently moved to https://codeberg.org/expede/dotfiles
+> Permanently moved to https://codeberg.org/expede/nix-command-utils
 
 # Nix Command Utils
 
