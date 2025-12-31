@@ -1,3 +1,6 @@
+> [!WARNING]
+> Permanently moved to https://codeberg.org/expede/dotfiles
+
 # Nix Command Utils
 
 Helpers for defining commands for Nix shells under Flakes.
